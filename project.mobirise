@@ -78,7 +78,8 @@
       "name": "CEAH",
       "icon": "@PROJECT_PATH@/assets/images/logo-512x512.png",
       "themeColor": "#ed6436"
-    }
+    },
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
